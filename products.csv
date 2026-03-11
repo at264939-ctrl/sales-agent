@@ -1,0 +1,11 @@
+product_id,name,description,price,stock
+P001,iPhone 15 Pro,Apple smartphone with A17 Pro chip and titanium design,999.99,50
+P002,Samsung Galaxy S24,Android flagship with AI features and 200MP camera,899.99,75
+P003,MacBook Pro 14,Professional laptop with M3 Pro chip,1999.99,30
+P004,Sony WH-1000XM5,Premium noise-canceling wireless headphones,349.99,100
+P005,AirPods Pro 2,Apple earbuds with active noise cancellation,249.99,120
+P006,iPad Air 5,Versatile tablet with M1 chip,599.99,60
+P007,Apple Watch Series 9,Advanced smartwatch with health tracking,399.99,80
+P008,Dell XPS 15,Windows ultrabook with OLED display,1799.99,25
+P009,Bose QuietComfort 45,Comfortable noise-canceling headphones,329.99,90
+P010,Google Pixel 8 Pro,AI-powered Android phone with best camera,899.99,45
