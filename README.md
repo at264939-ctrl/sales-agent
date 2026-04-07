@@ -1,6 +1,6 @@
 ---
 
-## Support ☕
+## Support me☕
 
 If you find this project helpful and would like to support its development, you can buy me a coffee via PayPal. Your support is greatly appreciated!
 
