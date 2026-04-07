@@ -142,8 +142,17 @@ https://smith.langchain.com/projects/sales-agent
 
 نوصي بـ Bose QuietComfort 45 - سماعة لاسلكية
 بعزل ضوضاء ممتازة وسعر $329.99. بديل ممتاز
-بنفس المواصفات المطلوبة.
-```
+بنفس المواصفات المطلوبة
+
+---
+
+## Support me☕
+
+If you find this project helpful and would like to support its development, you can buy me a coffee via PayPal. Your support is greatly appreciated!
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/ncp/payment/FYTDX2XYNGAJ8)
+
+---
 
 ## License
 
